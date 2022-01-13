@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssarah-git
 - 👀 I’m interested in Python Projects
-- 🌱 I’m currently learning Networking
+- 🌱 I’m currently learning python automation
 - 📫 How to reach me - sarah.jeanjacob@gmail.com
 
 <!---
